@@ -1,0 +1,3 @@
+Segundo projeto com python, django e sqlite.
+
+Cada modificação que eu fizer no meu projeto, será atualizada aqui no git.
